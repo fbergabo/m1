@@ -8,3 +8,5 @@ two functions to evaluate the two series several times until the total time nece
 total time is then divided by the number of times each function was called, to find the average time needed to compute
 each function. The average time needed for each function are then compared as a ratio in order to find which series 
 achieves the accuracy needed in the fastest time.
+
+The program finds that the Bailey-Borwein-Plouffe series obtains the accuracy roughly 100000 times faster than the Leibniz series. 
